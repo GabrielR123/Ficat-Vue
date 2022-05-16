@@ -1,0 +1,79 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_cb7dbbb8"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_4a9212e9"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_f8bec000"
+  },
+  {
+    "name": "statistics",
+    "path": "/statistics",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/statistics.vue",
+    "chunkName": "pages/statistics",
+    "_name": "_82f811c8"
+  },
+  {
+    "name": "talk",
+    "path": "/talk",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/talk.vue",
+    "chunkName": "pages/talk",
+    "_name": "_ad6bea36"
+  },
+  {
+    "name": "tutorial",
+    "path": "/tutorial",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/tutorial.vue",
+    "chunkName": "pages/tutorial",
+    "_name": "_2cfabfd2"
+  },
+  {
+    "name": "admin-areas_do_conhecimento",
+    "path": "/admin/areas_do_conhecimento",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/admin/areas_do_conhecimento.vue",
+    "chunkName": "pages/admin/areas_do_conhecimento",
+    "_name": "_0a6c3944"
+  },
+  {
+    "name": "admin-cursos",
+    "path": "/admin/cursos",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/admin/cursos.vue",
+    "chunkName": "pages/admin/cursos",
+    "_name": "_39e33c60"
+  },
+  {
+    "name": "admin-unidades_academicas",
+    "path": "/admin/unidades_academicas",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/admin/unidades_academicas.vue",
+    "chunkName": "pages/admin/unidades_academicas",
+    "_name": "_51a04fca"
+  },
+  {
+    "name": "admin-usuarios",
+    "path": "/admin/usuarios",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/admin/usuarios.vue",
+    "chunkName": "pages/admin/usuarios",
+    "_name": "_81f83384"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/sedepti/Documentos/bc-projects/ficat-vue/ficat-gui/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8c0e062e"
+  }
+]
